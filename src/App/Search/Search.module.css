@@ -1,0 +1,19 @@
+.form {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  padding: 20px;
+}
+
+.item {
+  margin-top: 1rem;
+}
+
+.label {
+  display: flex;
+  flex-direction: column;
+}
+
+.span {
+  line-height: 1.5rem;
+}

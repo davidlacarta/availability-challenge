@@ -1,0 +1,69 @@
+{
+  "availableRates": {
+    "44069509": [
+      {
+        "hotelId": 44069509,
+        "rateCode": "25162|160232b0|2602",
+        "roomTypeId": 25162,
+        "roomName": "Neu Suite Duplex",
+        "boardCode": "BB",
+        "boardName": "Desayuno Incluido",
+        "occupancy": { "numAdults": 2, "numChilds": 0, "numBabies": 0 },
+        "occupationDescription": "2 adultos (13 o más años el día de salida)",
+        "currency": "EUR",
+        "netPrice": "427.27",
+        "tax": "42.73",
+        "cityTax": "4.96",
+        "creditCardRequired": true,
+        "promoRate": false,
+        "cancellable": false,
+        "payment": {
+          "paymentType": "DIRECT_PAYMENT_AT_CHECKOUT",
+          "paymentMethods": ["CARD"]
+        }
+      },
+      {
+        "hotelId": 44069509,
+        "rateCode": "11942|61314b0|2602",
+        "roomTypeId": 11942,
+        "roomName": "Cheapest rate",
+        "boardCode": "BB",
+        "boardName": "Desayuno Incluido",
+        "occupancy": { "numAdults": 2, "numChilds": 0, "numBabies": 0 },
+        "occupationDescription": "2 adultos (13 o más años el día de salida)",
+        "currency": "EUR",
+        "netPrice": "200.00",
+        "tax": "20.00",
+        "cityTax": "4.96",
+        "creditCardRequired": true,
+        "promoRate": false,
+        "cancellable": false,
+        "payment": {
+          "paymentType": "DIRECT_PAYMENT_AT_CHECKOUT",
+          "paymentMethods": ["CARD"]
+        }
+      },
+      {
+        "hotelId": 44069509,
+        "rateCode": "11944|100852b0|2602",
+        "roomTypeId": 11944,
+        "roomName": "Neu Junior Suite",
+        "boardCode": "BB",
+        "boardName": "Desayuno Incluido",
+        "occupancy": { "numAdults": 2, "numChilds": 1, "numBabies": 0 },
+        "occupationDescription": "2 adultos (13 o más años el día de salida) + 1 niño (3-12 años)",
+        "currency": "EUR",
+        "netPrice": "368.18",
+        "tax": "36.82",
+        "cityTax": "7.44",
+        "creditCardRequired": true,
+        "promoRate": false,
+        "cancellable": false,
+        "payment": {
+          "paymentType": "DIRECT_PAYMENT_AT_CHECKOUT",
+          "paymentMethods": ["CARD"]
+        }
+      }
+    ]
+  }
+}

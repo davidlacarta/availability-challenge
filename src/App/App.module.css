@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  justify-content: center;
+}
+
+.title {
+  color: white;
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 20px;
+}

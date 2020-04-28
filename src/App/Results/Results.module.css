@@ -1,0 +1,16 @@
+.section {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 800px;
+}
+
+.card {
+  margin-top: 2rem;
+  width: 100%;
+}
+
+.tag {
+  margin-top: 1rem;
+}
